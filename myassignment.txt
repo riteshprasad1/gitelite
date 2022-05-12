@@ -1,5 +1,5 @@
 Assignment is about optimizing the activities you are doing daily. 
-
+This line is added in dev branch
 Here you need to reflect upon how your last week was, 
 
 what all things you did and what activities you did can be categrized as waste or lesser important.
