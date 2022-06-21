@@ -1,3 +1,4 @@
 first change added to delete file
 second line added
 Stash line added
+fourth line added
